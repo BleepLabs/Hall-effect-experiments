@@ -1,5 +1,9 @@
 Using two hall effect sensors and a magnet on a pendulum to control a synth and send MIDI
 
+https://www.instagram.com/p/ByODdP_BGue/  Synth demo
+MIDI
+
+
 The circuit is simply two DRV5053VAQLPG sensors read by a Teesny 3.2
 Their outputs go through a 220 ohm resistor and 2.2u cap low pass filter. This helps for the midi trigger mode but the synth mode works fine without them.
 
