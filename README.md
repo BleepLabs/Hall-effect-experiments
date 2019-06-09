@@ -1,7 +1,7 @@
 Using two hall effect sensors and a magnet on a pendulum to control a synth and send MIDI
 
-https://www.instagram.com/p/ByODdP_BGue/  Synth demo
-MIDI
+https://www.instagram.com/p/ByODdP_BGue/  Synth demo<br>
+https://www.instagram.com/p/BygbrzzB4gg/ MIDI<br>
 
 
 The circuit is simply two DRV5053VAQLPG sensors read by a Teesny 3.2
